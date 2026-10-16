@@ -3,7 +3,7 @@
 Binary water segmentation on 128 x 128 multispectral tiles, with two trained models and two ready-to-run Flask APIs (one per model). Upload a 12-channel tile and get a water mask back, from a REST endpoint or a simple web page.
 
 > ## Download both projects
-> **Google Drive folder: [[PASTE YOUR DRIVE LINK HERE](https://drive.google.com/drive/folders/1aT4fPNebg8OhHGTVOjYA57q4bV3DT-sD?usp=sharing)](PASTE_YOUR_DRIVE_LINK_HERE)**
+> **Google Drive folder: [[View Project Files here](https://drive.google.com/drive/folders/1aT4fPNebg8OhHGTVOjYA57q4bV3DT-sD?usp=sharing)]**
 >
 > The Drive folder contains one sub-folder per model, each with the code, the exported model and its own README:
 > `water-segmentation-api/` (Model A) and `water-segmentation-api-3ch/` (Model B).
